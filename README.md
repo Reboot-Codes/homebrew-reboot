@@ -1,5 +1,5 @@
-# Reboot-Codes Reboot
-
+# RebootTap
+A Homebrew Tap for all of my packages
 ## How do I install these formulae?
 
 `brew install reboot-codes/reboot/<formula>`
